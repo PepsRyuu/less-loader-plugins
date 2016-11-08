@@ -1,0 +1,14 @@
+{
+  "name": "less-loader-plugins",
+  "version": "0.0.1",
+  "description": "LESS plugins for various loaders.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PepsRyuu/less-loader-plugins.git"
+  },
+  "author": "Paul Sweeney",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^2.7.1"
+  }
+}
